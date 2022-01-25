@@ -1,0 +1,23 @@
+@media (max-width: 375px) {
+    img.main-camera.img-fluid{
+        margin-top: -385px;
+        height: 286px;
+    }
+    .photo {
+        margin-top: 51px;
+    }
+    .Circle {
+        height: 316px;
+    }
+    .button1{
+        margin-left: 66px;
+        margin-top: 25px;
+    }
+    h5.see-more {
+        margin-left: 177px;
+    }
+    .prodect {
+        margin-left: 25px;
+        margin-top: 22px;
+    }
+}
